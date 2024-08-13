@@ -9,7 +9,7 @@ function Header() {
       <nav className="border-b-2 border-yellow-400 mb-5 px-4 lg:px-6 py-2.5">
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           <Link to="/" className="flex items-center">
-            <h1 className="text-lg font-extrabold text-white">Kunal.in 🔥</h1>
+            <h1 className="text-lg font-extrabold text-white">Kunal.in 👁️</h1>
           </Link>
           <div className="flex items-center lg:order-2">
             {/* Hamburger Icon */}
