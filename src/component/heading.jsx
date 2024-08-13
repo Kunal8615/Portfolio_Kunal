@@ -4,7 +4,6 @@ function Heading({prop}){
     return (
         <>
         
-       
 <div className="  text-center">
 
 <div className="flex mb-2 w-full content-center items-center justify-center bg-black">
