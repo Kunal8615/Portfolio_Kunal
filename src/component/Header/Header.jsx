@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 
 function Header() {
-  const [isOpen, setIsOpen] = useState(false); // State to manage menu toggle
+  const [isOpen, setIsOpen] = useState(false);  // State to manage menu toggle
 
   return (
     <header className="shadow sticky z-50 top-0 bg-black">

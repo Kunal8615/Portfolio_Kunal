@@ -60,7 +60,7 @@ return(
         
       </div>
       <p className="mt-4 text-sm text-blue-400">
-       Connect Here !
+       Connect Here !!
       </p>
     </div>
   </div>
