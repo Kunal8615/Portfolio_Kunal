@@ -9,6 +9,8 @@ import { Collect, Insta, Skill } from './allComp.js'
 import About from './component/about/About.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './index.css'
+import ProjectCard from './component/project/component.jsx'
+import Project from './component/project/Project.jsx'
 
 
 const route = createBrowserRouter([
@@ -35,6 +37,10 @@ const route = createBrowserRouter([
             {
               path : "Insta",
               element :<Insta/>
+              },
+              {
+                path : "project",
+                element : <Project/>
               }
       
     ]
