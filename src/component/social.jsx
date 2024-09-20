@@ -2,7 +2,7 @@
  function Social(){
     return (
         <>
-       <div className=" mt-10 flex h-20  bg-black justify-center  items-center gap-12 m-2 border-2 border-white shadow-[0_0_2px_#fff,inset_0_0_2px_#fff,0_0_5px_#08f,0_0_15px_#08f,0_0_30px_#08f]">
+       <div className=" mt-10 flex h-20  bg-black justify-center  items-center gap-12 m-2 ">
     <a className="text-blue-500 hover:text-orange-600" aria-label="Visit TrendyMinds LinkedIn" href="https://www.linkedin.com/in/kunal-1a4983228/" target="_blank"><svg
             xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" className="h-8">
             <path fill="currentColor"
