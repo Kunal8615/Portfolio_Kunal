@@ -8,7 +8,7 @@ function Heading({ prop }) {
           <span className="absolute flex border w-fit bg-gradient-to-r blur-xl from-blue-500 via-teal-500 to-pink-500 bg-clip-text text-6xl box-content font-extrabold text-transparent text-center select-none">
             I'm Kunal
           </span>
-          <h1 className="bg-gradient-to-r from-cyan-500 via-yellow-500 to-pink-500 bg-clip-text text-6xl font-extrabold text-transparent text-center select-auto">
+          <h1 className="bg-gradient-to-r from-cyan-500 via-yellow-500 to-cyan-400 bg-clip-text text-6xl font-extrabold text-transparent text-center select-auto">
             I'm Kunal
           </h1>
         </div>
@@ -21,8 +21,7 @@ function Heading({ prop }) {
             fuels my creativity and problem-solving skills. Proficient in programming languages like
              C and C++, I am dedicated to leveraging technology to solve real-world problems and 
              enhance user experiences. As I explore new technologies and ideas, I strive to stay 
-             ahead in the fast-paced tech industry. I welcome opportunities for collaboration and 
-             connection, so feel free to reach out on LinkedIn.
+             ahead in the fast-paced tech industry. I welcome opportunities for collaboration and connection, so feel free to reach out on LinkedIn.
         </p>
         <a
           href="https://www.linkedin.com/in/kunal-1a4983228/"
