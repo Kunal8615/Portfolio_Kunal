@@ -8,7 +8,7 @@ function Heading({ prop }) {
           <span className="absolute flex border w-fit bg-gradient-to-r blur-xl from-blue-500 via-teal-500 to-pink-500 bg-clip-text text-6xl box-content font-extrabold text-transparent text-center select-none">
             I'm Kunal
           </span>
-          <h1 className="bg-gradient-to-r from-cyan-500 via-yellow-500 to-cyan-400 bg-clip-text text-6xl font-extrabold text-transparent text-center select-auto">
+          <h1 className="bg-gradient-to-r from-cyan-400 via-yellow-300 to-cyan-400 bg-clip-text text-6xl font-extrabold text-transparent text-center select-auto">
             I'm Kunal
           </h1>
         </div>
