@@ -5,7 +5,7 @@ function Heading({ prop }) {
     <>
       <div className="text-center">
         <div className="flex mb-2 w-full content-center items-center justify-center bg-black">
-          <span className="absolute flex border w-fit bg-gradient-to-r blur-xl from-blue-500 via-teal-500 to-pink-500 bg-clip-text text-6xl box-content font-extrabold text-transparent text-center select-none">
+          <span className="absolute flex border w-fit bg-gradient-to-r blur-xl from-blue-500 via-yellow-300 to-pink-500 bg-clip-text text-6xl box-content font-extrabold text-transparent text-center select-none">
             I'm Kunal
           </span>
           <h1 className="bg-gradient-to-r from-cyan-400 via-yellow-300 to-pink-500 bg-clip-text text-6xl font-extrabold text-transparent text-center select-auto">
