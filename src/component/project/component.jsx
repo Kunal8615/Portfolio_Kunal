@@ -12,10 +12,8 @@ const ProjectCard = ({img,title,des,link,tech}) => {
             alt="Project"
             className="rounded-lg w-full border-2 border-slate-600  lg:h-60 lg:w-max md:w-3/4  h-auto object-cover" // Responsive width
           />
-        </div>
-
-      
-        <div>
+         </div>
+         <div> 
           <h2 className=" text-orange-500 text-2xl font-bold mb-4">{title}</h2>
           <p className="text-gray-300 mb-6">
            {des}

@@ -13,7 +13,7 @@ function Heading({ prop }) {
           </h1>
         </div>
         <p className="p-2 mb-6 text-lg font-normal text-yellow-100 lg:text-xl sm:px-16 xl:px-48">
-        a B.Tech student with a passion for technology and a strong foundation in web development.
+        A B.Tech student with a passion for technology and a strong foundation in web development.
          With experience in the MERN stack and responsive design, I have honed my skills in JavaScript,
           HTML, and CSS to create dynamic, user-friendly web applications. In addition to my web
            development expertise, I have a background in graphic design, which allows me to craft
