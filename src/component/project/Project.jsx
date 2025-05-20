@@ -13,7 +13,7 @@ function Project() {
         title={"TubeTweet"} 
         tech={`💻 Frontend: Vite 🔧Backend: Node.js, Express, JavaScript\n📊 Database: MongoDB\n🛠️ Testing: Postman`} // Use backticks for multiline strings
         img={tubetweet} 
-        link={"tube-tweet-mu.vercel.app/"} 
+        link={"https://tube-tweet-mu.vercel.app/"} 
         des={"🚀 Introducing TubeTweet: Stream videos, tweet seamlessly, track subscribers, upload content, and create playlists. Built with Vite, Node.js, MongoDB. Explore it here:"} 
       />
 
