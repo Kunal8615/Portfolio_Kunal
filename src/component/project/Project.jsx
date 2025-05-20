@@ -3,6 +3,7 @@ import resume from "../../images/resume.png";
 import tubetweet from "../../images/tubetweet.png";
 import ProjectCard from './component';
 import datacloud from "../../images/datacloud.png"
+import scratchify from "../../images/Scratchify.png"
 const techStack = `JavaScript 🖥️: For interactive functionality and DOM manipulation.\nHTML 📄: Provides structure and content.\nCSS 🎨: For styling and layout.\nPDF Export 📄: Allows PDF download of resumes.\nResponsive Design 📱: Ensures compatibility across devices.`;
 
 function Project() {
@@ -14,6 +15,14 @@ function Project() {
         img={tubetweet} 
         link={"tube-tweet-mu.vercel.app/"} 
         des={"🚀 Introducing TubeTweet: Stream videos, tweet seamlessly, track subscribers, upload content, and create playlists. Built with Vite, Node.js, MongoDB. Explore it here:"} 
+      />
+
+<ProjectCard 
+        title={"Scratchify"} 
+        tech={`💻 Frontend: Vite 🔧Backend: Node.js, Express, JavaScript\n📊 Database: MongoDB\n🛠️ Testing: Postman`} // Use backticks for multiline strings
+        img={scratchify} 
+        link={"https://scratchify-mocha.vercel.app/"} 
+        des={"About 🚀 Introducing Scratchify! 🎟️🔄 Ever had unused scratch cards from Google Pay, Paytm, or other platforms just sitting there? 🤔💸 With Scratchify, you can exchange them and find the most valuable ones! 💰✨ No more wasted rewards—get the best deals, trade wisely, and maximize your benefits! 🔄🔥 What do you think? Let me know! 💭👇"} 
       />
 
     <ProjectCard
