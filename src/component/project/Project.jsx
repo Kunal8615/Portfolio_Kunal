@@ -10,29 +10,14 @@ const techStack = `JavaScript 🖥️: For interactive functionality and DOM man
 
 function Project() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-black to-gray-800">
-      {/* Hero Section */}
-      <section className="relative py-20 px-4">
-        <div className="max-w-7xl mx-auto text-center">
-          <h1 className="text-4xl md:text-6xl font-bold bg-gradient-to-r from-cyan-400 via-yellow-300 to-pink-500 bg-clip-text text-transparent mb-8">
-            My Projects
-          </h1>
-          <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
-            Explore my portfolio of innovative web applications and solutions
-          </p>
-        </div>
-      </section>
-
-      {/* Projects Grid */}
-      <section className="py-16 px-4">
-        <div className="max-w-7xl mx-auto space-y-16">
-          <ProjectCard 
-            title={"TubeTweet"} 
-            tech={`💻 Frontend: Vite 🔧Backend: Node.js, Express, JavaScript\n📊 Database: MongoDB\n🛠️ Testing: Postman`}
-            img={tubetweet} 
-            link={"tube-tweet-mu.vercel.app/"} 
-            des={"🚀 Introducing TubeTweet: Stream videos, tweet seamlessly, track subscribers, upload content, and create playlists. Built with Vite, Node.js, MongoDB. Explore it here:"} 
-          />
+    <>
+      <ProjectCard 
+        title={"TubeTweet"} 
+        tech={`💻 Frontend: Vite 🔧Backend: Node.js, Express, JavaScript\n📊 Database: MongoDB\n🛠️ Testing: Postman`} // Use backticks for multiline strings
+        img={tubetweet} 
+        link={"tube-tweet-mu.vercel.app/"} 
+        des={"🚀 Introducing TubeTweet: Stream videos, tweet seamlessly, track subscribers, upload content, and create playlists. Built with Vite, Node.js, MongoDB. Explore it here:"} 
+      />
 
           <ProjectCard 
             title={"Scratchify"} 
