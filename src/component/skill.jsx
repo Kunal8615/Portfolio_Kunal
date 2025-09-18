@@ -139,6 +139,87 @@ function Skill() {
               </div>
             </div>
             
+            {/* Testing */}
+            <div className="group relative bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl transition-all duration-300 hover:border-orange-500 hover:shadow-lg hover:shadow-orange-500/25 hover:scale-105">
+              <div className="relative space-y-6 py-8 p-6 flex flex-col items-center justify-center">
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
+                  loading="lazy"
+                  width="200"
+                  height="200"
+                  className="w-16 h-16 transition-transform duration-300 group-hover:scale-110"
+                  alt="Testing Logo"
+                />
+                <div className="space-y-2 text-center">
+                  <h5 className="text-xl font-semibold text-white transition group-hover:text-orange-400">
+                    Testing
+                  </h5>
+                  <p className="text-sm text-gray-400">Intermediate</p>
+                </div>
+              </div>
+            </div>
+
+            {/* Dynamic Programming */}
+            <div className="group relative bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl transition-all duration-300 hover:border-orange-500 hover:shadow-lg hover:shadow-orange-500/25 hover:scale-105">
+              <div className="relative space-y-6 py-8 p-6 flex flex-col items-center justify-center">
+                <img
+                  src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png"
+                  loading="lazy"
+                  width="200"
+                  height="200"
+                  className="w-16 h-16 transition-transform duration-300 group-hover:scale-110"
+                  alt="Dynamic Programming Logo"
+                />
+                <div className="space-y-2 text-center">
+                  <h5 className="text-xl font-semibold text-white transition group-hover:text-orange-400">
+                    Dynamic Programming
+                  </h5>
+                  <p className="text-sm text-gray-400">Intermediate</p>
+                </div>
+              </div>
+            </div>
+
+            {/* MongoDB */}
+            <div className="group relative bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl transition-all duration-300 hover:border-orange-500 hover:shadow-lg hover:shadow-orange-500/25 hover:scale-105">
+              <div className="relative space-y-6 py-8 p-6 flex flex-col items-center justify-center">
+                <img
+                  src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"
+                  loading="lazy"
+                  width="200"
+                  height="200"
+                  className="w-16 h-16 transition-transform duration-300 group-hover:scale-110"
+                  alt="MongoDB Logo"
+                />
+                <div className="space-y-2 text-center">
+                  <h5 className="text-xl font-semibold text-white transition group-hover:text-orange-400">
+                    MongoDB
+                  </h5>
+                  <p className="text-sm text-gray-400">Intermediate</p>
+                </div>
+              </div>
+            </div>
+
+            {/* Tailwind CSS */}
+            <div className="group relative bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl transition-all duration-300 hover:border-orange-500 hover:shadow-lg hover:shadow-orange-500/25 hover:scale-105">
+              <div className="relative space-y-6 py-8 p-6 flex flex-col items-center justify-center">
+                <img
+                  src="https://cdn.iconscout.com/icon/free/png-256/tailwind-css-2752024-2284895.png"
+                  loading="lazy"
+                  width="200"
+                  height="200"
+                  className="w-16 h-16 transition-transform duration-300 group-hover:scale-110"
+                  alt="Tailwind CSS Logo"
+                />
+                <div className="space-y-2 text-center">
+                  <h5 className="text-xl font-semibold text-white transition group-hover:text-orange-400">
+                    Tailwind CSS
+                  </h5>
+                  <p className="text-sm text-gray-400">Advanced</p>
+                </div>
+              </div>
+            </div>
+
+            {/* HTML5 */}
             <div className="group relative bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl transition-all duration-300 hover:border-orange-500 hover:shadow-lg hover:shadow-orange-500/25 hover:scale-105">
               <div className="relative space-y-6 py-8 p-6 flex flex-col items-center justify-center">
                 <img
@@ -157,6 +238,8 @@ function Skill() {
                 </div>
               </div>
             </div>
+
+            {/* CSS3 */}
             <div className="group relative bg-gray-800/50 backdrop-blur-sm border border-gray-700 rounded-xl transition-all duration-300 hover:border-orange-500 hover:shadow-lg hover:shadow-orange-500/25 hover:scale-105">
               <div className="relative space-y-6 py-8 p-6 flex flex-col items-center justify-center">
                 <img
