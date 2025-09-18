@@ -57,7 +57,7 @@ Security: Features secure JWT authentication 🔒`}
         des={
           "The Resume Builder is an intuitive application designed to help users create professional resumes effortlessly. With its streamlined process, users can focus on showcasing their skills and experiences without any hassle."
         }
-        tech={techStack}
+        tech={"Javascript"}
       />
 
       {/* Social Links */}
