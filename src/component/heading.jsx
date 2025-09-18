@@ -18,7 +18,7 @@ function Heading({ prop }) {
           {/* Subtitle */}
           <div className="mb-8">
             <h2 className="text-2xl md:text-3xl font-semibold text-gray-300 mb-4">
-              Full Stack Developer & AI Enthusiast
+              Full Stack Developer with Experties in Backend Development
             </h2>
             <div className="w-24 h-1 bg-gradient-to-r from-orange-400 to-pink-500 mx-auto rounded-full"></div>
           </div>
